@@ -24,7 +24,7 @@
     "typescript": "~5.7.2",
     "tailwindcss": "^4.0.0",
     "@tailwindcss/vite": "^4.0.0",
-    "tsx": "^4.19.0",
+    "tsx": "^4.23.15",
     "prettier": "^3.6.0"
   }
 }
